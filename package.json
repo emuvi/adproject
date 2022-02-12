@@ -1,7 +1,7 @@
 {
   "name": "adproject",
   "version": "0.1.0",
-  "description": "AdProject is an application with all the tools of information on projects that a company may need. This app is part of the AdMister applications.",
+  "description": "AdProject is a Qinpel user application with all the tools of information on projects that a company may need. This app is part of the AdMister applications.",
   "main": "./build/main.js",
   "types": "./types/main.d.ts",
   "keywords": [],
