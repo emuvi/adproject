@@ -1,12 +1,14 @@
 {
   "name": "adproject",
-  "version": "0.1.0",
+  "displayName": "AdProject",
   "description": "AdProject is a Qinpel user application with all the tools of information on projects that a company may need. This app is part of the AdMister applications.",
-  "main": "./build/main.js",
-  "types": "./types/main.d.ts",
   "keywords": [],
+  "repository": "https://github.com/emuvi/adproject",
   "author": "Éverton M. Vieira",
   "license": "LGPL-3.0-only",
+  "version": "0.1.0",
+  "main": "./build/main.js",
+  "types": "./types/main.d.ts",
   "dependencies": {
     "qinpel-cps": "file:../qinpel-cps",
     "qinpel-res": "file:../qinpel-res"
