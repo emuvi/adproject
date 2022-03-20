@@ -11,4 +11,4 @@ class AdProject extends QinColumn {
 
 }
 
-new AdProject().putAsBody();
+new AdProject().style.putAsBody();
